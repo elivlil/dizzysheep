@@ -1,0 +1,12 @@
+
+.header{
+  display:flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.app-title{
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #424242;
+}
